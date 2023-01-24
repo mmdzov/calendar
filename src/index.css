@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Vazir", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Vazir", sans-serif;
+}
+
+* {
+  outline: none !important;
+}
